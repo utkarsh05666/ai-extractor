@@ -1,0 +1,10 @@
+Invoice Number: INV-2026-042
+Invoice Date: 2026-04-01
+Vendor Name: Acme Corporation
+Line Items:
+    - Widget A, Quantity: 10, Price: 50.00
+    - Widget B, Quantity: 5, Price: 100.00
+Total Amount: 1000.00
+Due Date: 2026-04-15
+
+Thank you for your business!

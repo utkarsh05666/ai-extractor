@@ -1,0 +1,22 @@
+INVOICE #: 88293-X
+Date of Issue: 2026-05-10
+Vendor: Global Tech Solutions Ltd.
+Client: Utkarsh Analytics
+
+BILLING ITEMS:
+--------------------------------------------------
+1. Cloud Hosting Pro - Qty: 1 - Price: 299.00
+2. Database Migration Service - Qty: 3 - Price: 150.00
+3. Security Audit Plugin - Qty: 2 - Price: 75.00
+--------------------------------------------------
+
+SUBTOTAL: 899.00
+TAX (0%): 0.00
+TOTAL AMOUNT DUE: USD 899.00
+
+TERMS & CONDITIONS:
+Please remit payment via bank transfer. 
+All balances must be settled by 2026-05-24.
+Late fees apply after the due date.
+
+Thank you for choosing Global Tech!
