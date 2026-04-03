@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment/Data (Don't upload these!)
+.venv/
+.env
+pipeline.log
+structured_output.json
+docs/
